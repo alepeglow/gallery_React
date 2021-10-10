@@ -3,7 +3,12 @@
 
 
 This project was made in React during a challenge called "5 Projetos em 5 Dias" by [B7Web](https://b7web.com.br).
-# Getting Started with Create React App
+
+This project was made with firebase, which is a very interesting subject, and served to fix the contents more. We also use styled-components.
+Basically, the project is for you to add the photos or directly through the website, which already appears right there in the firebase. If you try to add any file other than an image file, it will not be allowed to add it. And a delete button has also been added so you can delete photos right on the page.
+I modified mine to add my dogs. 
+
+#  Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
